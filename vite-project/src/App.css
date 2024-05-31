@@ -1,0 +1,61 @@
+.width {
+  width: 30% !important;
+}
+
+.pading-footer {
+  padding: 0px 20px;
+}
+
+.margin {
+  padding: 40px 0px;
+}
+
+.post-card-margin {
+  margin: 50px 0px;
+}
+
+.cursor {
+  cursor: pointer;
+}
+
+.min-h-screens {
+  min-height: 100vh;
+}
+
+.loginw {
+  width: 50%;
+  margin: 0 auto;
+}
+
+.dashbord-margin {
+  margin: 50px 0px;
+}
+
+.blog-image {
+  width: 100px;
+  height: 100px;
+  object-fit: contain;
+  border-radius: 20px;
+}
+
+.blog-height {
+  min-height: 100vh;
+  margin-top: 50px;
+}
+
+.create-blog {
+  min-height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.not-found {
+  text-align: center;
+  width: 100%;
+}
+
+.blog-post-image-height {
+  height: 220px;
+  object-fit: contain;
+}
